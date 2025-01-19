@@ -82,10 +82,10 @@ PDF Q&A Assistant is a full-stack application that allows users to upload PDF do
 
 1. **Upload PDF**
 
-    URL: /pdf/upload/
-    Method: POST
-    Request:
-        file: PDF file to be uploaded.
+    *URL: /pdf/upload/*
+    *Method: POST*
+    *Request:*
+        *file: PDF file to be uploaded.*
     Response:
         200 OK: { "text": "<extracted-text>" }
         400 Bad Request: { "detail": "Error processing the PDF: <error-message>" }
