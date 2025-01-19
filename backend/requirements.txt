@@ -7,3 +7,5 @@ python-dotenv
 psycopg2
 python-multipart
 langchain_community
+langchain_openai
+openai
