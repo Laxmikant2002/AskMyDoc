@@ -1,0 +1,9 @@
+fastapi
+uvicorn
+pymupdf
+langchain==0.3.14
+sqlalchemy
+python-dotenv
+psycopg2
+python-multipart
+langchain_community
